@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">Technologies</h4>
+<h4 align="left">SKILLS</h4>
 
 ###
 
