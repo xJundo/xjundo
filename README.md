@@ -8,11 +8,12 @@
 
 ###
 
-<table>
+<table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <!-- SKILLS Section -->
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
       <h4>SKILLS</h4>
-      <p>
+      <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
@@ -27,11 +28,12 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
-      </p>
+      </div>
     </td>
-    <td align="center">
+    <!-- TOOLS Section -->
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
       <h4>TOOLS</h4>
-      <p>
+      <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
@@ -41,10 +43,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
         <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
-      </p>
+      </div>
     </td>
   </tr>
 </table>
+
 
 ###
 
