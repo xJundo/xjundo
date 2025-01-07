@@ -3,7 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xJundo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=xJundo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Stats" height="150" alt="stats graph"  />
+  <img align="right" height="150" src="https://www.gif-maniac.com/gifs/50/49730.gif"  />
 </div>
 
 ###
@@ -71,12 +72,6 @@
     <img src="https://img.shields.io/static/v1?message=CONTACT&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://www.gif-maniac.com/gifs/50/49730.gif"  />
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xJundo/xjundo/output/github-snake-dark.svg" />
