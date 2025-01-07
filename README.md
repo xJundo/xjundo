@@ -11,9 +11,9 @@
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
   <tr>
     <!-- SKILLS Section -->
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;" align="center">
-      <h4>SKILLS</h4>
-      <div>
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+      <h4 align="center">SKILLS</h4>
+      <div align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
