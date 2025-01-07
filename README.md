@@ -78,6 +78,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xJundo/xjundo/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/xJundo/xjundo/output/github-snake.svg" />
 </picture>
+
 ###
 
 <br clear="both">
