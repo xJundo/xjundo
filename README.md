@@ -11,7 +11,7 @@
 <table style="table-layout: fixed; width: 100%; border-collapse: collapse;">
   <tr>
     <!-- SKILLS Section -->
-    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;" align="center">
       <h4>SKILLS</h4>
       <div>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
