@@ -8,9 +8,9 @@
 
 ###
 
-<div style="display: flex; justify-content: center; gap: 50px; align-items: flex-start; margin-top: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 50px; margin-top: 20px;">
   <!-- SKILLS Section -->
-  <div style="flex: 1; min-width: 300px;">
+  <div>
     <h4 align="center">SKILLS</h4>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
@@ -31,7 +31,7 @@
   </div>
 
   <!-- TOOLS Section -->
-  <div style="flex: 1; min-width: 300px;">
+  <div>
     <h4 align="center">TOOLS</h4>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
